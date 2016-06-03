@@ -1,0 +1,16 @@
+PODS:
+  - NetRequest (0.1.0)
+
+DEPENDENCIES:
+  - NetRequest (from `../`)
+
+EXTERNAL SOURCES:
+  NetRequest:
+    :path: ../
+
+SPEC CHECKSUMS:
+  NetRequest: 763a82ff6f2867deb10d2bb4d38a0d6a8d49ad8e
+
+PODFILE CHECKSUM: 7447c99e4d5135b36fd74e1950e50186a6216602
+
+COCOAPODS: 1.0.1
